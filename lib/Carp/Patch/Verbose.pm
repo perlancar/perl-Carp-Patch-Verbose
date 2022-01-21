@@ -1,4 +1,4 @@
-package Carp::Patch::Config;
+package Carp::Patch::Verbose;
 
 use 5.010001;
 use strict;
